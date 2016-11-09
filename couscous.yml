@@ -30,3 +30,7 @@ menu:
             text: Company Profile
             # You can use relative urls
             relativeUrl: profile.html
+        faq:
+            text: FAQs
+            # You can use relative urls
+            relativeUrl: faq.html
