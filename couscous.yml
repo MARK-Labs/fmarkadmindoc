@@ -4,8 +4,8 @@ baseUrl: https://mark-labs.github.io/fmarkadmindoc
 template:
     url: https://github.com/MARK-Labs/Template-ReadTheDocs
 
-title: Funder Portal Admin User Guide
-subTitle: This is a complete guide for using funder.marklabs.co
+title: Accelerate™ Administrative Guide
+subTitle: This is a complete guide for administrators on accelerate.marklabs.co
 
 # The left menu bar
 menu:
@@ -14,7 +14,19 @@ menu:
             text: Home
             # You can use relative urls
             relativeUrl: .
-        user:
-            text: Users
+        partners:
+            text: Partners
             # You can use relative urls
-            relativeUrl: user.html
+            relativeUrl: partners.html
+        users:
+            text: User Management
+            # You can use relative urls
+            relativeUrl: users.html
+        reporting:
+            text: Reporting Requirements
+            # You can use relative urls
+            relativeUrl: reporting.html
+        profile:
+            text: Company Profile
+            # You can use relative urls
+            relativeUrl: profile.html
