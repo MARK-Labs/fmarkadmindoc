@@ -4,7 +4,7 @@ currentMenu: partners
 
 # Manage Partners on Impact&trade;
 
-Impact&trade is the web portal for your social partners to communicate their work with you. In order to get started, you will need to invite administrators to the Impact&trade platform.
+Impact&trade is the web portal for your partners to communicate their work with you. In order to get started, you will need to invite administrators to the Impact&trade platform.
 
 ## Accessing the page
 

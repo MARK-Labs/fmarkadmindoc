@@ -37,7 +37,7 @@ Similar to Multiple Choice, the only difference is that the user is shown a drop
 
 #### Creating a Suggested Template
 
-To create a Template click on the ![plus icon](https://d3e1wbkfmk6n2w.cloudfront.net/fa/plus.png "Plus Icon") on the top right of the Templates table. You will be able to select which of your Social partners that you would like to collect this information from.
+To create a Template click on the ![plus icon](https://d3e1wbkfmk6n2w.cloudfront.net/fa/plus.png "Plus Icon") on the top right of the Templates table. You will be able to select which of your partners that you would like to collect this information from.
 
 #### Editing a template
 
