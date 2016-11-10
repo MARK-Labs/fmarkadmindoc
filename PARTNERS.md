@@ -8,7 +8,7 @@ Impact&trade is the web portal for your social partners to communicate their wor
 
 ## Accessing the page
 
-To access this page, select "Organisations" from the "Settings" menu.
+To access this page, select "Partners" from the "Settings" menu.
 
 ## Inviting a Partner
 
@@ -16,7 +16,7 @@ To invite a partner, enter the email of the administator and the name of the par
 
 ## Pending Invitations
 
-Once a partner has been invited, they will appear under Pending Invitations. To cancel the invitation click on the ![cross icon](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Delete Icon"). If this is done prior to them completing their registration, they will not be able to register. To resend the invitation, click on the ![recycle icon](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Resend Icon").
+Once a partner has been invited, they will appear under Pending Invitations. To cancel the invitation click on the ![cross icon](https://d3e1wbkfmk6n2w.cloudfront.net/fa/cross.png "Delete Icon"). If this is done prior to them completing their registration, they will not be able to register. To resend the invitation, click on the ![refresh icon](https://d3e1wbkfmk6n2w.cloudfront.net/fa/refresh.png "Resend Icon").
 
 ## Confirmed Invitations
 
