@@ -4,10 +4,20 @@ currentMenu: users
 
 # User Management
 
-The purpose of this guide is to provide an overview of the administrative features of the Accelerate&trade; portal. Specifically you will learn how to:
+Accelerate&trade allows you to give access to other users in your company.
 
-#### 1. Invite partners to Impact&trade; [https://impact.marklabs.co](https://impact.marklabs.co)(impact.marklabs.co) so they can communicate their work with you.
-#### 2. Invite other users in your company to have access to the Accelerate&trade; portal.
-#### 3. Configure reporting requirements for your social partners.
-#### 4. Track KPIs based on your reporting requirements.
-#### 5. Manage Your Company Profile.
+## Accessing the page
+
+To access this page, select "Users" from the "Settings" menu.
+
+## Inviting a user
+
+To invite a user, enter their email click "Send Invitation". This will send them an email to invite them to use Accelerate&trade as a user (They will not that administrative privileges). They will be provided instructions for completing their registration.
+
+## Pending Invitations
+
+Once a user has been invited, they will appear under Pending Invitations. To cancel the invitation click on the ![cross icon](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Delete Icon"). If this is done prior to them completing their registration, they will not be able to register. To resend the invitation, click on the ![recycle icon](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Resend Icon").
+
+## Confirmed Invitations
+
+Once the user has confirmed their invitation, they will appear under the Confirmed Invitations list. You can disable their account by clicking on the ![disable icon](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Disable Icon"). They will not be able to access this company account the next time they log in. Once disabled, a "(Disabled)" tag will appear beside their name.

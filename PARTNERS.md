@@ -4,10 +4,20 @@ currentMenu: partners
 
 # Manage Partners on Impact&trade;
 
-The purpose of this guide is to provide an overview of the administrative features of the Accelerate&trade; portal. Specifically you will learn how to:
+Impact&trade is the web portal for your social partners to communicate their work with you. In order to get started, you will need to invite administrators to the Impact&trade platform.
 
-#### 1. Invite partners to Impact&trade; [https://impact.marklabs.co](https://impact.marklabs.co)(impact.marklabs.co) so they can communicate their work with you.
-#### 2. Invite other users in your company to have access to the Accelerate&trade; portal.
-#### 3. Configure reporting requirements for your social partners.
-#### 4. Track KPIs based on your reporting requirements.
-#### 5. Manage Your Company Profile.
+## Accessing the page
+
+To access this page, select "Organisations" from the "Settings" menu.
+
+## Inviting a Partner
+
+To invite a partner, enter the email of the administator and the name of the partner. This will send them an email to invite them to use Impact&trade. They will be provided instructions for completing their registration.
+
+## Pending Invitations
+
+Once a partner has been invited, they will appear under Pending Invitations. To cancel the invitation click on the ![cross icon](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Delete Icon"). If this is done prior to them completing their registration, they will not be able to register. To resend the invitation, click on the ![recycle icon](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Resend Icon").
+
+## Confirmed Invitations
+
+Once the user has confirmed their invitation, they will appear under the Confirmed Invitations list.
