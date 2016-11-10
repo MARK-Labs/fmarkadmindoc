@@ -12,7 +12,7 @@ To access this page, select "Users" from the "Settings" menu.
 
 ## Inviting a user
 
-To invite a user, enter their email click "Send Invitation". This will send them an email to invite them to use Accelerate&trade as a user (They will not that administrative privileges). They will be provided instructions for completing their registration.
+To invite a user, enter their email click "Send Invitation". This will send them an email to invite them to use Accelerate&trade as a user (They will not have administrative privileges). They will be provided instructions for completing their registration.
 
 ## Pending Invitations
 

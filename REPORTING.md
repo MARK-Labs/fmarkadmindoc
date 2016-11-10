@@ -15,7 +15,6 @@ To access this page, select "Activities" from the "Settings" menu. On this page,
 Templates define the type of data you would like to collect. They will contain a name to describe the template and a number of fields each with a specific type. Although not shown when creating a template, when users submit data for a template, they will be asked for the location and time of the record. The platform currently supports the following data types.
 
 ##### Short Answer
-
 A text input used to collect fields that are less than 50 characters. This is useful for capturing short fields like names of people, places and things.
 
 ##### Paragraph
@@ -38,7 +37,7 @@ Similar to Multiple Choice, the only difference is that the user is shown a drop
 
 #### Creating a Suggested Template
 
-To create a Template click on the ![plus icon](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Plus Icon") on the top right of the Templates table. You will be able
+To create a Template click on the ![plus icon](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Plus Icon") on the top right of the Templates table. You will be able to select which of your Social partners that you would like to collect this information from.
 
 #### Editing a template
 

@@ -12,10 +12,6 @@ To access this page, select "Company Profile" from the "Settings" menu.
 
 ## Editable fields
 
-At the moment, you can update the following fields
+At the moment, you can update the following fields:
 
-| Field         | Description
-| ------------- |:------------------------:|
-| Name          | The name of your company |
-
-* Name - The name of your company
+* **Name** - The name of your company
